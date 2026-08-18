@@ -2,7 +2,7 @@
 
 - 🌱 Formado em Engenharia de Software
 - 🔭 Desenvolvedor Flutter mobile
-- ⚡ Experiência de desenvolvimento de 4 apps, 3 deles publicados em loja (Google Play Store)
+- ⚡ Experiência de desenvolvimento de 7 apps, 5 deles publicados em loja (Google Play Store)
 - 📫 Contate-me no e-mail: cttdanielbruno@gmail.com
 - 🌐 Meu LinkedIn: https://www.linkedin.com/in/daniel-brunoo/
 
